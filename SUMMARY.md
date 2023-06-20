@@ -24,4 +24,5 @@
   * [Shop to Earn](roadmap/shop-to-earn.md)
   * [Further Blockchains](roadmap/further-blockchains.md)
   * [NFTs](roadmap/nfts.md)
+  * [Leveraged Tokens](roadmap/leveraged-tokens.md)
   * [Green Bonds](roadmap/green-bonds.md)
