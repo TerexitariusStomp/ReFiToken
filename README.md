@@ -1,2 +1,3 @@
-# This will be the Whitepaper start
+# Disclaimer
 
+This will be the whitepaper disclaimer

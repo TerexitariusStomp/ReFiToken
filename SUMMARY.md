@@ -1,3 +1,16 @@
 # Table of contents
 
-* [This will be the Whitepaper start](README.md)
+* [Disclaimer](README.md)
+* [Token Attributes](token-attributes/README.md)
+  * [Basket Token](token-attributes/basket-token.md)
+  * [Supply of Token](token-attributes/supply-of-token.md)
+  * [Tokens in Balancer Vault](token-attributes/tokens-in-balancer-vault.md)
+  * [Tax on Transfer](token-attributes/tax-on-transfer.md)
+  * [Yield Bearing](token-attributes/yield-bearing.md)
+* [Roadmap](roadmap/README.md)
+  * [Balancer Incentives](roadmap/balancer-incentives.md)
+  * [Yield Bearing Token Generation](roadmap/yield-bearing-token-generation.md)
+  * [Enable Governance](roadmap/enable-governance.md)
+  * [Shop to Earn](roadmap/shop-to-earn.md)
+  * [Further Blockchains](roadmap/further-blockchains.md)
+  * [Green Bonds](roadmap/green-bonds.md)
