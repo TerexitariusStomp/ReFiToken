@@ -2,7 +2,7 @@
 
 Our tokens are not intended to constitute securities, units in a collective investment scheme, or other capital market products or its equivalent or any other regulated products in any jurisdiction.
 
-Our tokens do not entitle you to any ownership or any other interest in any legal entities affiliated with our community; such as Tierrx Inc. and/or any of their affiliated companies.
+Our tokens do not entitle you to any ownership or any other interest in any legal entities affiliated with our community and/or any of their affiliated companies.
 
 Please note that you may not be able to recover any money paid for tokens in the event that our Token Economy fails to materialize or where our business fails.
 
