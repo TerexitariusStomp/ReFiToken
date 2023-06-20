@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Disclaimer](README.md)
-* [Terms and Conditions](terms-and-conditions.md)
+* [Read This](README.md)
+  * [Disclaimer](read-this/disclaimer.md)
+  * [Terms and Conditions](read-this/terms-and-conditions.md)
 * [Token Attributes](token-attributes/README.md)
   * [Basket Token](token-attributes/basket-token.md)
   * [Supply of Token](token-attributes/supply-of-token.md)
@@ -14,4 +15,5 @@
   * [Enable Governance](roadmap/enable-governance.md)
   * [Shop to Earn](roadmap/shop-to-earn.md)
   * [Further Blockchains](roadmap/further-blockchains.md)
+  * [NFTs](roadmap/nfts.md)
   * [Green Bonds](roadmap/green-bonds.md)
