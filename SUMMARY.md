@@ -18,6 +18,7 @@
 * [Organizational Revenue Sources](organizational-revenue-sources.md)
 * [Token Distribution](token-distribution.md)
 * [Roadmap](roadmap/README.md)
+  * [Stock Market Publishing](roadmap/stock-market-publishing.md)
   * [Balancer Incentives](roadmap/balancer-incentives.md)
   * [Yield Bearing Token Generation](roadmap/yield-bearing-token-generation.md)
   * [Enable Governance](roadmap/enable-governance.md)
@@ -27,4 +28,3 @@
   * [NFTs](roadmap/nfts.md)
   * [Leveraged Tokens](roadmap/leveraged-tokens.md)
   * [Green Bonds](roadmap/green-bonds.md)
-  * [Stock Market Publishing](roadmap/stock-market-publishing.md)
