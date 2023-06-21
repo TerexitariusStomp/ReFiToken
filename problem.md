@@ -1,5 +1,7 @@
 # Problem
 
+**General public don’t see regenerative finance assets as a value increasing investment.**
+
 There are two charts below from around the same timeframe 1 month May-June 2023.&#x20;
 
 One of these charts belongs to a regenerative finance organization that has enabled communities to fund, build and protect community led products to protocols. Many of the most prominent web3 organizations were once it's grantees and it's distributed over USD$50 million in grant funding since 2019. These funds have been distributed to organizations developing open source coding to projects creating climate solutions.&#x20;
