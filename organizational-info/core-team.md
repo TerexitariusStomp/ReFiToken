@@ -18,7 +18,7 @@ Bilingual professional with over 10 years’ experience in environmental studies
 
 Author TODA/IP internet protocol. CEO HyperCycle.AI Global Chair IEEE AI Standards. Served as Chair ACM PB CC, ACM 100,000 members #1 in computer science globally. Loves algorithms, cryptography, BFT/ADG Autonomous Decentralized Governance, Distributed Computing, Machine Learning, Game Theory and AI in general.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## [Sandor Habsburg (CMO)](https://www.linkedin.com/in/sandor-habsburg-8b286b46/) @Sandor\_Herta
 

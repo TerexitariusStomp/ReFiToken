@@ -16,6 +16,7 @@
     * [Tax on Transfer](solution/token-attributes/tax-on-transfer.md)
     * [Yield Bearing](solution/token-attributes/yield-bearing.md)
 * [Organizational Info](organizational-info/README.md)
+  * [Governance](organizational-info/governance.md)
   * [Core Team](organizational-info/core-team.md)
   * [Why Now](organizational-info/why-now.md)
   * [Gap Being Filled](organizational-info/gap-being-filled.md)
