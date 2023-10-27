@@ -22,14 +22,6 @@ The Powerledger token is available on Ethereum and is part of the Powerledger Bl
 
 [Token Chart](https://dex.guru/token/eth/0x595832f8fc6bf59c85c527fec3740a1b7a361269)&#x20;
 
-### Energy Web
-
-[Energy Web](https://www.energyweb.org/) develops and operates enterprise-grade software solutions that help energy companies capture business value from clean and distributed energy resources in complex, multi-stakeholder environments where a lack of coordination creates barriers to innovation. This is primarily done through Green Proofs, Asset Management and Data Exchange. It was co-founded by globally respected energy think-and-do tank Rocky Mountain Institute (RMI) and noted blockchain developer Grid Singularity (GSy), along with a cohort of 10 founding Affiliates. They have 50 projects in 25 countries with 100+ partners.&#x20;
-
-The EnergyWeb token is part of the Energy Web Blockchain and has numerous utilities, including scaling access to grid flexibility. Energy Web token gains staking fees when on the Energy Web chain. However the version of Energy Web in our vault does not receive staking fees. It's in our roadmap to help Energy Web to create an Ethereum token that will be able to recieve staking fees. Once this token is in place, we will communicate with our community to see preference in switching token to staked token.&#x20;
-
-[Token Chart](https://dex.guru/token/eth/0x178c820f862b14f316509ec36b13123da19a6054)&#x20;
-
 ### _Health_
 
 ### VitaDAO
@@ -50,15 +42,11 @@ Ethix is ​​the insurance of loans to farmers, which protects the investment 
 
 [Token Chart ](https://dex.guru/token/eth/0xfd09911130e6930bf87f2b0554c44f400bd80d3e)
 
-### _Carbon Credits_
+### Good Dollar
 
-### IMPT.io
+[**GoodDollar**](https://www.gooddollar.org/) is a blockchain-based platform that aims to address wealth inequality and poverty by providing a universal basic income (UBI) to people around the world. It operates as a nonprofit initiative, emphasizing its commitment to social impact and economic inclusivity. The UBI gets generated through income by utilizing yield-generating assets and digital assets held in reserve. These funds are then distributed to eligible users through a claim mechanism.
 
-[IMPT](https://impt.io/) has a web browser plugin enabled with affiliate marketing capabilities. This plugin has affiliate marketing links for 10,000+ affiliate brands. When using IMPT, people can receive discounts for the products they purchase as well as earn IMPT tokens for those purchases. The IMPT tokens can be used for purchasing carbon credits to reduce the impact of the shopping.&#x20;
-
-The tokens will be the primary means of payment for items on their platform. Holding the tokens also improve the sale margin gained when shopping. Eventually IMPT will be used as a governance token. We are anticipating enabling governance with IMPT with our token and are working on developing a relationship with IMPT so that when holding our token, the sale margin gained when shopping is still prevalent.&#x20;
-
-[Token Chart](https://dex.guru/token/eth/0x04c17b9d3b29a78f7bd062a57cf44fc633e71f85)  &#x20;
+[Token Chart](https://coinmarketcap.com/currencies/gooddollar/)
 
 ### Wrapped Ethereum&#x20;
 
